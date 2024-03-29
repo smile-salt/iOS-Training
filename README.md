@@ -1,4 +1,4 @@
-# 株式会社ゆめみ iOS研修
+# iOS研修
 
 [![Test](https://github.com/yumemi-inc/ios-training/actions/workflows/test.yml/badge.svg)](https://github.com/yumemi-inc/ios-training/actions/workflows/test.yml)
 
@@ -31,16 +31,6 @@ SwiftPackageManagerに対応しています。
 `main` <-- `session/{#}`
 1. Approvalされたらマージ
 1. 次の課題を実施
-
-全ての課題をクリアしたら修了です！
-
-### レビュー待ちのとき
-レビュー待ちの時は次の課題に先行着手しましょう。  
-`git rebase` コマンドを使ってみましょう。[^git-rebase]  
-Session1がレビュー待ちの場合...
-1. `session/1`ブランチから`session/2`を切る
-1. Session2を進める
-1. `session/1`のマージ後、`session/2`を`main`でrebaseする  
 
 # Session
 
