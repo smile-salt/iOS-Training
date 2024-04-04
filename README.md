@@ -20,8 +20,8 @@ SwiftPackageManagerに対応しています。
     1. 新しくweatherでリポジトリを作成してください。
 1. WeatherリポジトリにXcodeProjectを作成  
 1. XcodeProjectに[YumemiWeather](Documentation/YumemiWeather.md)を導入
-1. `main`ブランチをPush
 1. 課題用のブランチを切って実施  01_AutoLayout、02_API　など
+2. 課題が完了したらmainにマージする
 1. 次の課題を実施
 
 
