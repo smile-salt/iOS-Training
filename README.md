@@ -14,7 +14,7 @@ SwiftPackageManagerに対応しています。
 
 ## 研修の進め方
 1. 空白の授業用のリポジトリを作成
-    1. 新しくweatherでリポジトリを作成してください。
+    1. 新しくWeatherでリポジトリを作成してください。
 1. WeatherリポジトリにXcodeProjectを作成  
 1. XcodeProjectに[YumemiWeather](Documentation/YumemiWeather.md)を導入
 1. 課題用のブランチを切って実施  01_AutoLayout、02_API　など
