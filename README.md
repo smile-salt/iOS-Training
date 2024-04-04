@@ -5,9 +5,6 @@ iOSアプリ開発の基礎復習、実務スキルを身に付けるための�
 ## 概要
 天気予報アプリを開発していただきます。  
 
-## 環境
-XcodeとSwiftは、基本的に最新の安定版を利用すること
-
 ## 天気予報API
 `YumemiWeather`というライブラリを使用してください。  
 SwiftPackageManagerに対応しています。
@@ -16,7 +13,7 @@ SwiftPackageManagerに対応しています。
 [YumemiWeather](Documentation/YumemiWeather.md)
 
 ## 研修の進め方
-1. 空白の研修用のリポジトリを作成
+1. 空白の授業用のリポジトリを作成
     1. 新しくweatherでリポジトリを作成してください。
 1. WeatherリポジトリにXcodeProjectを作成  
 1. XcodeProjectに[YumemiWeather](Documentation/YumemiWeather.md)を導入
