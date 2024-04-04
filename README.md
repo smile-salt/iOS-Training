@@ -1,4 +1,4 @@
-# iOS研修
+# iOS-Training
 業務に近いかたちでアプリ開発を行いながら、  
 iOSアプリ開発の基礎復習、実務スキルを身に付けるための研修です。
 
@@ -12,7 +12,7 @@ SwiftPackageManagerに対応しています。
 インストール方法やAPI仕様は以下を参照ください。  
 [YumemiWeather](Documentation/YumemiWeather.md)
 
-## 研修の進め方
+## iOS-Trainingの進め方
 1. 空白の授業用のリポジトリを作成
     1. 新しくWeatherでリポジトリを作成してください。
 1. WeatherリポジトリにXcodeProjectを作成  
