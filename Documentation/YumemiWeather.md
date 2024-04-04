@@ -1,4 +1,4 @@
-# YumemiWeather
+# Weather
 天気予報を取得する擬似APIです。
 
 ## インストール方法
