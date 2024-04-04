@@ -17,19 +17,13 @@ SwiftPackageManagerに対応しています。
 
 ## 研修の進め方
 1. 空白の研修用のリポジトリを作成
-    1. organizationでレビュアーユーザグループを設定してある場合、該当organizationでリポジトリを作成するとレビュアー設定しやすいです。の場合は [yumemi-inc](https://github.com/yumemi-inc) で作成します。
-    1. 研修終了後にご自身のGitHubアカウントにリポジトリを移動して構いません。
-1. 研修用リポジトリにXcodeProjectを作成  
+    1. 新しくweatherでリポジトリを作成してください。
+1. WeatherリポジトリにXcodeProjectを作成  
 1. XcodeProjectに[YumemiWeather](Documentation/YumemiWeather.md)を導入
 1. `main`ブランチをPush
-1. 課題用のブランチを切って実施  
-`session/{#}`
-1. 完了したらPull Requestを作成し、レビュー依頼  
-`main` <-- `session/{#}`
-1. Approvalされたらマージ
+1. 課題用のブランチを切って実施  01_AutoLayout、02_API　など
 1. 次の課題を実施
 
-全ての課題をクリアしたら修了です！
 
 # Session
 1. [AutoLayout](Documentation/AutoLayout.md)
