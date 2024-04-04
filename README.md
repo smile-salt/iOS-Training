@@ -17,7 +17,7 @@ SwiftPackageManagerに対応しています。
 
 ## 研修の進め方
 1. 空白の研修用のリポジトリを作成
-    1. organizationでレビュアーユーザグループを設定してある場合、該当organizationでリポジトリを作成するとレビュアー設定しやすいです。ゆめみの場合は [yumemi-inc](https://github.com/yumemi-inc) で作成します。
+    1. organizationでレビュアーユーザグループを設定してある場合、該当organizationでリポジトリを作成するとレビュアー設定しやすいです。の場合は [yumemi-inc](https://github.com/yumemi-inc) で作成します。
     1. 研修終了後にご自身のGitHubアカウントにリポジトリを移動して構いません。
 1. 研修用リポジトリにXcodeProjectを作成  
 1. XcodeProjectに[YumemiWeather](Documentation/YumemiWeather.md)を導入
@@ -39,15 +39,11 @@ SwiftPackageManagerに対応しています。
 1. [Error](Documentation/Error.md)
 1. [Json](Documentation/Json.md)
 1. [Codable](Documentation/Codable.md)
-1. [NotificationCenter](Documentation/NotificationCenter.md)
-1. [UnitTest](Documentation/UnitTest.md)
 1. [ThreadBlock](Documentation/ThreadBlock.md)
 1. [Closure](Documentation/Closure.md)
-1. [Concurrency](Documentation/Concurrency.md)
 1. UIKit
     1. [UITableView](Documentation/UITableView.md)
     1. [UINavigationController](Documentation/UINavigationController.md)
-1. [BugFix](Documentation/BugFix.md)
 
 [^git-rebase]: このようなケースで `rebase` コマンドを使うことが必ずしも正しいとは限りません。 どのような方法をとるかはチームで議論するべきと考えます。 ただ、この研修は「`rebase`コマンドを使ってみる」ことも研修の一部としています。
 
