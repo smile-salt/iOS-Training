@@ -14,7 +14,3 @@ SwiftPackageManagerに対応しています。
 ## API
 
 - [YumemiWeather](https://yumemi-inc.github.io/ios-training/documentation/yumemiweather/yumemiweather)
-
-## Error type
-
-- [YumemiWeatherError](https://yumemi-inc.github.io/ios-training/documentation/yumemiweather/yumemiweathererror)
