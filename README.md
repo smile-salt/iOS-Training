@@ -50,7 +50,3 @@ SwiftPackageManagerに対応しています。
 ## 補足事項
 - ライブラリ・ツール群に制約はありません
 - 後の課題に含まれる技術要素を先に取り入れてもOKです
-
-## 附録
-
-[関連ワード・動画索引（熊谷さんのやさしい Swift 勉強会）](https://yumemi.notion.site/iOS-e22f8a8ab59d4b43b039bc201b3ceaf3)
