@@ -22,6 +22,3 @@ UIViewControllerのライフサイクルに関するリファレンスをまと�
 
 ※イメージ  
 ![VC_Lifecycle](Images/VC_Lifecycle.gif)
-
-## 附録
-[関連ワード・動画索引（熊谷さんのやさしい Swift 勉強会）](https://yumemi.notion.site/70fe9df85a7d4e2e81b94fbe1dae8f8e)
