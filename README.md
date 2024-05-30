@@ -31,7 +31,7 @@ SwiftPackageManagerに対応しています。
 1. [Json](Documentation/Json.md)
 1. [Codable](Documentation/Codable.md)
 1. [ThreadBlock](Documentation/ThreadBlock.md)
-1. [Closure](Documentation/Closure.md)
+1. [Closure・Callback](Documentation/Closure.md)
 1. UIKit
     1. [UITableView](Documentation/UITableView.md)
     1. [UINavigationController](Documentation/UINavigationController.md)
